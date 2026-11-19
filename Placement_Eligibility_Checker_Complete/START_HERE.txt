@@ -1,0 +1,11 @@
+START HERE
+1. Extract this ZIP.
+2. Open the extracted Placement_Eligibility_Checker_Complete folder in VS Code.
+3. Terminal > New Terminal.
+4. Run: python -m pip install python-dotenv
+5. Run: python main.py
+6. Open outputs/ to see the four reports.
+7. Run: python tests/eval_harness.py
+8. Run: python tests/red_team_tests.py
+Optional real LLM: copy .env.example to .env and enter your own API key.
+Without a key, offline fallback is used. Never send student records to the LLM.

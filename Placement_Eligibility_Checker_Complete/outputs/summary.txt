@@ -1,0 +1,14 @@
+PLACEMENT ELIGIBILITY SUMMARY
+DRAFT ONLY: placement officer must verify every list before sharing.
+
+Zentrix Software (J01): 5 eligible; matched
+Bluepeak Systems (J02): 19 eligible; matched
+Kovai Motors (J03): 0 eligible; needs_review
+Nova Electronics (J04): 3 eligible; matched
+CloudSpring Technologies (J05): 2 eligible; matched
+Infobyte Solutions (J06): 3 eligible; matched
+Aster Services (J07): 17 eligible; matched
+BuildRight Engineering (J08): 4 eligible; matched
+
+STUDENTS ELIGIBLE FOR NO JOB YET:
+None

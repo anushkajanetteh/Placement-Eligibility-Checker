@@ -1,0 +1,9 @@
+id,company,branches,min_cgpa,max_backlogs,batch,summary,status,eligible_count,source
+J01,Zentrix Software,CSE;IT;AIDS,7.5,0,2027,"CSE, IT, AIDS CGPA 7.5+ max 0 backlogs 2027",matched,5,offline_fallback
+J02,Bluepeak Systems,ALL,6.5,,,ALL CGPA 6.5+,matched,19,offline_fallback
+J03,Kovai Motors,EEE;MECH,,,2027,"EEE, MECH 2027",needs_review,0,offline_fallback
+J04,Nova Electronics,ECE;EEE,7.0,0,,"ECE, EEE CGPA 7+ max 0 backlogs",matched,3,offline_fallback
+J05,CloudSpring Technologies,CSE,8.0,,2027,CSE CGPA 8+ 2027,matched,2,offline_fallback
+J06,Infobyte Solutions,IT;AIDS,7.0,0,,"IT, AIDS CGPA 7+ max 0 backlogs",matched,3,offline_fallback
+J07,Aster Services,ALL,6.0,,2027,ALL CGPA 6+ 2027,matched,17,offline_fallback
+J08,BuildRight Engineering,MECH;CIVIL,6.5,,2027,"MECH, CIVIL CGPA 6.5+ 2027",matched,4,offline_fallback
